@@ -1,5 +1,3 @@
-# Loveis
-Loveeeeeee
 <!DOCTYPE html>
 <html lang="id">
 <head>
